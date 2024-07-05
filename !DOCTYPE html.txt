@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lewis Sibanda - IT Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        #main {
+            padding: 30px;
+            background: white;
+            margin-top: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lewis Sibanda - IT Professional</h1>
+    </header>
+    <div class="container">
+        <div id="main">
+            <section class="section">
+                <h2>About Me</h2>
+                <p>Hello! I am Lewis Sibanda, an Information Technology student at the Oregon Institute of Technology. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in the IT field.</p>
+            </section>
+            <section class="section">
+                <h2>Projects</h2>
+                <p>Here are some of the projects I have worked on:</p>
+                <ul>
+                    <li><strong>Project 1:</strong> Description of project 1.</li>
+                    <li><strong>Project 2:</strong> Description of project 2.</li>
+                    <li><strong>Project 3:</strong> Description of project 3.</li>
+                </ul>
+            </section>
+            <section class="section">
+                <h2>Contact</h2>
+                <p>You can reach me at <a href="mailto:lewis.sibanda@example.com">lewis.sibanda@example.com</a> or connect with me on LinkedIn.</p>
+            </section>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Lewis Sibanda</p>
+    </footer>
+</body>
+</html>
